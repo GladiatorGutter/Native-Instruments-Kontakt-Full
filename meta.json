@@ -1,0 +1,26 @@
+{
+  "repo": "native-instruments-kontakt-full",
+  "product": "Native Instruments Kontakt Full",
+  "kind": "audio",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zaliv-part3",
+  "format": "license-md-zentool-v1-no-banner",
+  "category": "audio-production",
+  "topics": [
+    "native-instruments-kontakt-full",
+    "native-desktop",
+    "native-windows",
+    "audio-production",
+    "music-editing",
+    "midi-tools",
+    "mixing-console",
+    "sound-design",
+    "podcast-editing",
+    "desktop-audio",
+    "windows-daw",
+    "instrument-plugins",
+    "mastering-tools"
+  ],
+  "site": "zentool.art"
+}
